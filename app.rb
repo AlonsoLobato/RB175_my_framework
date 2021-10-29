@@ -1,5 +1,3 @@
-# hello_world.rb
-
 require_relative 'monroe'
 require_relative 'advice'
 
